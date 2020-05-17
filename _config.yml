@@ -22,8 +22,6 @@ title: My Projects Webpage
 email: to.afrozkhan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hi, I am Afroz, a meche and robot enthusiast.
-baseurl: "/afrozkmohammed" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  afrozkmohammed
 
 # Build settings
